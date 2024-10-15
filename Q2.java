@@ -2,8 +2,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+
 public class Q2 {
     
+
     private Map<String, String> qaPairs;
 
     public Q2() {
