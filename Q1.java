@@ -29,6 +29,4 @@ public class Q1 {
 
         return camelCaseOutput.toString().trim();
     }
-
-
 }
