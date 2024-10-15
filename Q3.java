@@ -52,7 +52,7 @@ public class Q3 {
 
         List<College> filteredColleges = new ArrayList<>();
 
-        // Filter colleges based on user preferences
+  
         for (College college : colleges) {
             if (college.getLocation().equalsIgnoreCase(preferredLocation) && college.getFees() <= maxFees) {
                 filteredColleges.add(college);
